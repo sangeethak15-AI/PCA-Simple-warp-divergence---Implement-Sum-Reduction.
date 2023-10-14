@@ -1,4 +1,4 @@
-[# EXPERIMENT 3 : Simple-warp-divergence---Implement-Sum-Reduction.
+# EXPERIMENT 3 : Simple-warp-divergence---Implement-Sum-Reduction.
 ## AIM
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
 
@@ -296,4 +296,3 @@ int main(int argc, char **argv)
 ## RESULT
 Thus, the performance of two CUDA kernels, reduceUnrolling8 and reduceUnrolling16 has been compared successfully. 
 
-](https://github.com/sangeethak15-AI/PCA-Simple-warp-divergence---Implement-Sum-Reduction.)
